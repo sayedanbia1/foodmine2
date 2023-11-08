@@ -86,19 +86,5 @@ export const sample_users: any[] = [
     address: 'Toronto On',
     isAdmin: true,
   },
-  {
-<<<<<<< HEAD
-    name: "Jane Doe",
-    email: "Jane@gmail.com",
-    password: "12345",
-    address: "Shanghai",
-    isAdmin: true,
-=======
-    name: 'Jane Doe',
-    email: 'Jane@gmail.com',
-    password: '12345',
-    address: 'Shanghai',
-    isAdmin: false,
->>>>>>> 8ff4fcee39204284804ca0e5ef439775b60d9e8c
-  },
+  
 ];
